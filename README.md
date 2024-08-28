@@ -57,7 +57,7 @@ This is a Node.js/TypeScript backend for a photo ordering system. It provides en
 
 - `GET /api/photos/random/:count`: Get a list of random photo URLs
 - `POST /api/orders`: Create a new order
-- `GET /api/orders/user/:user`: Get all orders for a specific user
+- `GET /api/orders/user/:user`: Get all orders for a specific user with user name
 
 ## Testing
 
