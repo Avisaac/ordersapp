@@ -17,7 +17,7 @@ This is a Node.js/TypeScript backend for a photo ordering system. It provides en
 
 1. Clone the repository:
    ```
-   git clone https://github.com/yourusername/photo-order-backend.git
+   git clone https://github.com/Avisaac/ordersapp.git
    cd photo-order-backend
    ```
 
